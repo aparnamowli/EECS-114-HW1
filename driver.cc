@@ -1,6 +1,6 @@
 /**
  *  \file driver.cc
- *  \brief HW 1: OpenMP
+ *  \brief HW 1: Sorting
  *
  *  This program
  *
